@@ -5,15 +5,19 @@
   </div>
   <div>
     <strong class="block font-medium mb-1">Chart:</strong>
-    <%= schedule.chart_id %>
+    <%= schedule.chart.name %>
+  </div>
+  <div>
+    <strong class="block font-medium mb-1">Court:</strong>
+    <%= schedule.room.court.description %>
   </div>
   <div>
     <strong class="block font-medium mb-1">Room:</strong>
-    <%= schedule.room_id %>
+    <%= schedule.room.description %>
   </div>
   <div>
     <strong class="block font-medium mb-1">Case:</strong>
-    <%= schedule.case_id %>
+    <%= schedule.case.description %>
   </div>
   <div>
     <strong class="block font-medium mb-1">Rapporteur:</strong>

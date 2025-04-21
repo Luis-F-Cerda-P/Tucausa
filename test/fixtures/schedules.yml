@@ -2,18 +2,18 @@
 
 one:
   date: 2025-04-20
-  chart: one
-  room: one
-  case: one
-  rapporteur: MyString
-  judge: MyString
-  attorney: MyString
+  chart: ordinaria
+  room: primera
+  case: caso_civil
+  rapporteur: Luis Cerda
+  judge: Luis Cerda
+  attorney: Luis Cerda
 
 two:
   date: 2025-04-20
-  chart: two
-  room: two
-  case: two
-  rapporteur: MyString
-  judge: MyString
-  attorney: MyString
+  chart: extraordinaria
+  room: segunda
+  case: caso_penal
+  rapporteur: Luis Cerda
+  judge: Luis Cerda
+  attorney: Luis Cerda

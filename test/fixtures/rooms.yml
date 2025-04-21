@@ -1,9 +1,9 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  description: MyString
-  court: one
+primera:
+  description: Primera
+  court: apelaciones_san_miguel
 
-two:
-  description: MyString
-  court: two
+segunda:
+  description: Segunda
+  court: apelaciones_san_miguel

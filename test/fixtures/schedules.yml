@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2025-04-20
+  chart: one
+  room: one
+  case: one
+  rapporteur: MyString
+  judge: MyString
+  attorney: MyString
+
+two:
+  date: 2025-04-20
+  chart: two
+  room: two
+  case: two
+  rapporteur: MyString
+  judge: MyString
+  attorney: MyString
